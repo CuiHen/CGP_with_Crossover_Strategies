@@ -1,5 +1,5 @@
 # CGP With Crossover
-Code and Benchmarks for Positional Bias Does Not Influence Cartesian Genetic Programming with Crossover
+Code and Benchmarks for Positional Bias Does Not Influence Cartesian Genetic Programming with Crossover
 
 # Rust
 The code is written in Rust only.  
